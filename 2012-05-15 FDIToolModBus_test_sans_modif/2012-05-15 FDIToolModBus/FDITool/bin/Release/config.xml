@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SeperatorIOs>110</SeperatorIOs>
+  <SeperatorTStamp>9</SeperatorTStamp>
+  <FileNameAutomataStructure>D:\IDENTIFICATION_Manip_BOSCH\IDENTIFICATION_Manip_BOSCH\Schneider0613\Database\Distributed10AutsK1MinS20MinT200RelConf1FDI.xml</FileNameAutomataStructure>
+  <Port>2000</Port>
+  <DBUserName>root</DBUserName>
+  <DBName>faultreports</DBName>
+  <DBPassword>lurpa</DBPassword>
+  <DBServer>localhost</DBServer>
+  <UpdateDataBaseDelay>60</UpdateDataBaseDelay>
+  <PlantName>MSS</PlantName>
+  <AutomaticStart>false</AutomaticStart>
+  <WriteDataBase>true</WriteDataBase>
+  <LogWriterToken>true</LogWriterToken>
+  <BlackBoxWriterToken>true</BlackBoxWriterToken>
+  <SizeLogFile>5</SizeLogFile>
+  <SizeBlackboxFile>5</SizeBlackboxFile>
+  <LinesLogFile>5000</LinesLogFile>
+  <LinesBlackboxFile>5000</LinesBlackboxFile>
+</Settings>

@@ -1,0 +1,957 @@
+10/09/2024 15:12:56 
+10/09/2024 15:12:56 Buffersize before receive: 0
+10/09/2024 15:12:56 294680 0100000001000001000000001100000101000000000000010000000000101000010000000000000100001010010110000100000000000001000001000101100100000000000000000000000000000000000000000000000000000000110000000001000000000000
+10/09/2024 15:12:56 Detector: Pusher new initialized at state 7
+10/09/2024 15:12:56 Detector: Lifter new initialized at state 4
+10/09/2024 15:12:56 Detector: Chute new initialized at state 0
+10/09/2024 15:12:56 Isolator: Sensors processed InitFault
+10/09/2024 15:12:56 Detector: PreGripper new initialized at state 0
+10/09/2024 15:12:56 Detector: Transport new initialized at state 0
+10/09/2024 15:12:56 Detector: InPress new initialized at state 0
+10/09/2024 15:12:56 Detector: OutPress new initialized at state 0
+10/09/2024 15:12:56 Detector: PostGripper new initialized at state 0
+10/09/2024 15:12:56 Detector: Storage new initialized at state 0
+10/09/2024 15:13:54 Buffersize: 212
+10/09/2024 15:23:31 
+10/09/2024 15:23:31 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 15:23:31 Detector: Pusher clock: 335276
+10/09/2024 15:23:31 Isolator: Pusher processing DeadLockFault from state 7
+10/09/2024 15:23:31 Isolator: Pusher calculating Res4'...
+10/09/2024 15:23:31 
+10/09/2024 15:23:31 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 15:23:31 Detector: Lifter clock: 335276
+10/09/2024 15:23:31 Isolator: Lifter processing DeadLockFault from state 4
+10/09/2024 15:23:31 Isolator: Lifter calculating Res4'...
+10/09/2024 15:23:31 Databaser: Structural Residuals updated
+10/09/2024 15:23:31 -------------------------------------
+10/09/2024 15:23:31 Databaser: Deadlock
+10/09/2024 15:23:31 Databaser: Res1: 
+10/09/2024 15:23:31 Databaser: Res2: 
+10/09/2024 15:23:31 Databaser: Res3: 
+10/09/2024 15:23:31 Databaser: Res4: O50.9 is 0, reference 1; O50.11 is 0, reference 1; 
+10/09/2024 15:23:31 Databaser: Structural Residuals: O50.9 is 0, reference 1; O50.11 is 0, reference 1; 
+10/09/2024 15:23:31 -------------------------------------
+10/09/2024 15:23:31 
+10/09/2024 15:23:31 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 15:23:31 Detector: Pusher clock: 335336
+10/09/2024 15:23:31 
+10/09/2024 15:23:31 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 15:23:31 Detector: Lifter clock: 335336
+10/09/2024 17:01:15 
+10/09/2024 17:01:15 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:01:15 Detector: Pusher clock: 335341
+10/09/2024 17:01:15 
+10/09/2024 17:01:15 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:01:15 Detector: Lifter clock: 335341
+10/09/2024 17:02:25 
+10/09/2024 17:02:25 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:25 Detector: Pusher clock: 335346
+10/09/2024 17:02:25 
+10/09/2024 17:02:25 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:25 Detector: Lifter clock: 335346
+10/09/2024 17:02:31 
+10/09/2024 17:02:31 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:31 Detector: Pusher clock: 338136
+10/09/2024 17:02:31 
+10/09/2024 17:02:31 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:31 Detector: Lifter clock: 338136
+10/09/2024 17:02:31 
+10/09/2024 17:02:31 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:31 Detector: Pusher clock: 338185
+10/09/2024 17:02:31 
+10/09/2024 17:02:31 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:31 Detector: Lifter clock: 338185
+10/09/2024 17:02:31 
+10/09/2024 17:02:31 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:31 Detector: Pusher clock: 338264
+10/09/2024 17:02:31 
+10/09/2024 17:02:31 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:31 Detector: Lifter clock: 338264
+10/09/2024 17:02:31 
+10/09/2024 17:02:31 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:31 Detector: Pusher clock: 338326
+10/09/2024 17:02:31 
+10/09/2024 17:02:31 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:31 Detector: Lifter clock: 338326
+10/09/2024 17:02:31 
+10/09/2024 17:02:31 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:31 Detector: Pusher clock: 338385
+10/09/2024 17:02:31 
+10/09/2024 17:02:31 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:31 Detector: Lifter clock: 338385
+10/09/2024 17:02:31 
+10/09/2024 17:02:31 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:31 Detector: Pusher clock: 338427
+10/09/2024 17:02:31 
+10/09/2024 17:02:31 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:31 Detector: Lifter clock: 338427
+10/09/2024 17:02:31 
+10/09/2024 17:02:31 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:31 Detector: Pusher clock: 338481
+10/09/2024 17:02:31 
+10/09/2024 17:02:31 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:31 Detector: Lifter clock: 338481
+10/09/2024 17:02:31 
+10/09/2024 17:02:31 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:31 Detector: Pusher clock: 338536
+10/09/2024 17:02:31 
+10/09/2024 17:02:31 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:31 Detector: Lifter clock: 338536
+10/09/2024 17:02:32 
+10/09/2024 17:02:32 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:32 Detector: Pusher clock: 338578
+10/09/2024 17:02:32 
+10/09/2024 17:02:32 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:32 Detector: Lifter clock: 338578
+10/09/2024 17:02:32 
+10/09/2024 17:02:32 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:32 Detector: Pusher clock: 338622
+10/09/2024 17:02:32 
+10/09/2024 17:02:32 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:32 Detector: Lifter clock: 338622
+10/09/2024 17:02:32 
+10/09/2024 17:02:32 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:32 Detector: Pusher clock: 339001
+10/09/2024 17:02:32 
+10/09/2024 17:02:32 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:32 Detector: Lifter clock: 339001
+10/09/2024 17:02:32 
+10/09/2024 17:02:32 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:32 Detector: Pusher clock: 339076
+10/09/2024 17:02:32 
+10/09/2024 17:02:32 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:32 Detector: Lifter clock: 339076
+10/09/2024 17:02:33 
+10/09/2024 17:02:33 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:33 Detector: Pusher clock: 339118
+10/09/2024 17:02:33 
+10/09/2024 17:02:33 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:33 Detector: Lifter clock: 339118
+10/09/2024 17:02:33 
+10/09/2024 17:02:33 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:33 Detector: Pusher clock: 339182
+10/09/2024 17:02:33 
+10/09/2024 17:02:33 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:33 Detector: Lifter clock: 339182
+10/09/2024 17:02:36 
+10/09/2024 17:02:36 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:36 Detector: Pusher clock: 340918
+10/09/2024 17:02:36 
+10/09/2024 17:02:36 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:36 Detector: Lifter clock: 340918
+10/09/2024 17:02:36 
+10/09/2024 17:02:36 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:36 Detector: Pusher clock: 340924
+10/09/2024 17:02:36 
+10/09/2024 17:02:36 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:36 Detector: Lifter clock: 340924
+10/09/2024 17:02:36 
+10/09/2024 17:02:36 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:36 Detector: Pusher clock: 340967
+10/09/2024 17:02:36 
+10/09/2024 17:02:36 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:36 Detector: Lifter clock: 340967
+10/09/2024 17:02:36 
+10/09/2024 17:02:36 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:36 Detector: Pusher clock: 341003
+10/09/2024 17:02:36 
+10/09/2024 17:02:36 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:36 Detector: Lifter clock: 341003
+10/09/2024 17:02:36 
+10/09/2024 17:02:36 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:36 Detector: Pusher clock: 341042
+10/09/2024 17:02:36 
+10/09/2024 17:02:36 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:36 Detector: Lifter clock: 341042
+10/09/2024 17:02:36 
+10/09/2024 17:02:36 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:36 Detector: Pusher clock: 341081
+10/09/2024 17:02:36 
+10/09/2024 17:02:36 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:36 Detector: Lifter clock: 341081
+10/09/2024 17:02:37 
+10/09/2024 17:02:37 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:37 Detector: Pusher clock: 341149
+10/09/2024 17:02:37 
+10/09/2024 17:02:37 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:37 Detector: Lifter clock: 341149
+10/09/2024 17:02:37 Buffersize: 424
+10/09/2024 17:02:37 
+10/09/2024 17:02:37 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:37 Detector: Pusher clock: 341177
+10/09/2024 17:02:37 
+10/09/2024 17:02:37 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:37 Detector: Lifter clock: 341177
+10/09/2024 17:02:37 Buffersize: 212
+10/09/2024 17:02:37 
+10/09/2024 17:02:37 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:37 Detector: Pusher clock: 341209
+10/09/2024 17:02:37 
+10/09/2024 17:02:37 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:37 Detector: Lifter clock: 341209
+10/09/2024 17:02:37 
+10/09/2024 17:02:37 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:37 Detector: Pusher clock: 341230
+10/09/2024 17:02:37 
+10/09/2024 17:02:37 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:37 Detector: Lifter clock: 341230
+10/09/2024 17:02:37 
+10/09/2024 17:02:37 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:37 Detector: Pusher clock: 341305
+10/09/2024 17:02:37 
+10/09/2024 17:02:37 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:37 Detector: Lifter clock: 341305
+10/09/2024 17:02:37 Buffersize: 212
+10/09/2024 17:02:37 
+10/09/2024 17:02:37 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:37 Detector: Pusher clock: 341326
+10/09/2024 17:02:37 
+10/09/2024 17:02:37 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:37 Detector: Lifter clock: 341326
+10/09/2024 17:02:37 
+10/09/2024 17:02:37 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:37 Detector: Pusher clock: 341346
+10/09/2024 17:02:37 
+10/09/2024 17:02:37 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:37 Detector: Lifter clock: 341346
+10/09/2024 17:02:37 
+10/09/2024 17:02:37 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:37 Detector: Pusher clock: 341379
+10/09/2024 17:02:37 
+10/09/2024 17:02:37 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:37 Detector: Lifter clock: 341379
+10/09/2024 17:02:37 Buffersize: 212
+10/09/2024 17:02:37 
+10/09/2024 17:02:37 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:37 Detector: Pusher clock: 341401
+10/09/2024 17:02:37 
+10/09/2024 17:02:37 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:37 Detector: Lifter clock: 341401
+10/09/2024 17:02:37 
+10/09/2024 17:02:37 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:37 Detector: Pusher clock: 341416
+10/09/2024 17:02:37 
+10/09/2024 17:02:37 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:37 Detector: Lifter clock: 341416
+10/09/2024 17:02:37 
+10/09/2024 17:02:37 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:37 Detector: Pusher clock: 341585
+10/09/2024 17:02:37 
+10/09/2024 17:02:37 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:37 Detector: Lifter clock: 341585
+10/09/2024 17:02:37 Buffersize: 424
+10/09/2024 17:02:37 
+10/09/2024 17:02:37 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:37 Detector: Pusher clock: 341607
+10/09/2024 17:02:37 
+10/09/2024 17:02:37 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:37 Detector: Lifter clock: 341607
+10/09/2024 17:02:37 Buffersize: 212
+10/09/2024 17:02:37 
+10/09/2024 17:02:37 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:37 Detector: Pusher clock: 341638
+10/09/2024 17:02:37 
+10/09/2024 17:02:37 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:37 Detector: Lifter clock: 341638
+10/09/2024 17:02:37 
+10/09/2024 17:02:37 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:37 Detector: Pusher clock: 341653
+10/09/2024 17:02:37 
+10/09/2024 17:02:37 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:37 Detector: Lifter clock: 341653
+10/09/2024 17:02:38 
+10/09/2024 17:02:38 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:38 Detector: Pusher clock: 341680
+10/09/2024 17:02:38 
+10/09/2024 17:02:38 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:38 Detector: Lifter clock: 341680
+10/09/2024 17:02:38 Buffersize: 636
+10/09/2024 17:02:38 
+10/09/2024 17:02:38 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:38 Detector: Pusher clock: 341700
+10/09/2024 17:02:38 
+10/09/2024 17:02:38 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:38 Detector: Lifter clock: 341700
+10/09/2024 17:02:38 Buffersize: 424
+10/09/2024 17:02:38 
+10/09/2024 17:02:38 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:38 Detector: Pusher clock: 341738
+10/09/2024 17:02:38 
+10/09/2024 17:02:38 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:38 Detector: Lifter clock: 341738
+10/09/2024 17:02:38 Buffersize: 212
+10/09/2024 17:02:38 
+10/09/2024 17:02:38 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:38 Detector: Pusher clock: 341753
+10/09/2024 17:02:38 
+10/09/2024 17:02:38 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:38 Detector: Lifter clock: 341753
+10/09/2024 17:02:38 
+10/09/2024 17:02:38 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:38 Detector: Pusher clock: 341779
+10/09/2024 17:02:38 
+10/09/2024 17:02:38 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:38 Detector: Lifter clock: 341779
+10/09/2024 17:02:38 
+10/09/2024 17:02:38 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:38 Detector: Pusher clock: 341807
+10/09/2024 17:02:38 
+10/09/2024 17:02:38 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:38 Detector: Lifter clock: 341807
+10/09/2024 17:02:38 Buffersize: 424
+10/09/2024 17:02:38 
+10/09/2024 17:02:38 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:38 Detector: Pusher clock: 341829
+10/09/2024 17:02:38 
+10/09/2024 17:02:38 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:38 Detector: Lifter clock: 341829
+10/09/2024 17:02:38 Buffersize: 212
+10/09/2024 17:02:38 
+10/09/2024 17:02:38 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:38 Detector: Pusher clock: 341849
+10/09/2024 17:02:38 
+10/09/2024 17:02:38 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:38 Detector: Lifter clock: 341849
+10/09/2024 17:02:38 
+10/09/2024 17:02:38 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:38 Detector: Pusher clock: 341870
+10/09/2024 17:02:38 
+10/09/2024 17:02:38 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:38 Detector: Lifter clock: 341870
+10/09/2024 17:02:38 
+10/09/2024 17:02:38 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:38 Detector: Pusher clock: 341904
+10/09/2024 17:02:38 
+10/09/2024 17:02:38 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:38 Detector: Lifter clock: 341904
+10/09/2024 17:02:38 Buffersize: 424
+10/09/2024 17:02:38 
+10/09/2024 17:02:38 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:38 Detector: Pusher clock: 341930
+10/09/2024 17:02:38 
+10/09/2024 17:02:38 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:38 Detector: Lifter clock: 341930
+10/09/2024 17:02:38 Buffersize: 212
+10/09/2024 17:02:38 
+10/09/2024 17:02:38 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:38 Detector: Pusher clock: 341942
+10/09/2024 17:02:38 
+10/09/2024 17:02:38 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:38 Detector: Lifter clock: 341942
+10/09/2024 17:02:38 
+10/09/2024 17:02:38 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:38 Detector: Pusher clock: 341967
+10/09/2024 17:02:38 
+10/09/2024 17:02:38 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:38 Detector: Lifter clock: 341967
+10/09/2024 17:02:38 
+10/09/2024 17:02:38 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:38 Detector: Pusher clock: 342038
+10/09/2024 17:02:38 
+10/09/2024 17:02:38 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:38 Detector: Lifter clock: 342038
+10/09/2024 17:02:38 
+10/09/2024 17:02:38 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:38 Detector: Pusher clock: 342116
+10/09/2024 17:02:38 
+10/09/2024 17:02:38 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:38 Detector: Lifter clock: 342116
+10/09/2024 17:02:38 Buffersize: 424
+10/09/2024 17:02:38 
+10/09/2024 17:02:38 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:38 Detector: Pusher clock: 342138
+10/09/2024 17:02:38 
+10/09/2024 17:02:38 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:38 Detector: Lifter clock: 342138
+10/09/2024 17:02:38 Buffersize: 212
+10/09/2024 17:02:38 
+10/09/2024 17:02:38 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:38 Detector: Pusher clock: 342154
+10/09/2024 17:02:38 
+10/09/2024 17:02:38 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:38 Detector: Lifter clock: 342154
+10/09/2024 17:02:38 
+10/09/2024 17:02:38 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:38 Detector: Pusher clock: 342185
+10/09/2024 17:02:38 
+10/09/2024 17:02:38 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:38 Detector: Lifter clock: 342185
+10/09/2024 17:02:39 
+10/09/2024 17:02:39 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:39 Detector: Pusher clock: 342285
+10/09/2024 17:02:39 
+10/09/2024 17:02:39 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:39 Detector: Lifter clock: 342285
+10/09/2024 17:02:39 
+10/09/2024 17:02:39 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:39 Detector: Pusher clock: 342311
+10/09/2024 17:02:39 
+10/09/2024 17:02:39 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:39 Detector: Lifter clock: 342311
+10/09/2024 17:02:39 
+10/09/2024 17:02:39 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:39 Detector: Pusher clock: 342396
+10/09/2024 17:02:39 
+10/09/2024 17:02:39 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:39 Detector: Lifter clock: 342396
+10/09/2024 17:02:39 
+10/09/2024 17:02:39 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:39 Detector: Pusher clock: 342417
+10/09/2024 17:02:39 
+10/09/2024 17:02:39 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:39 Detector: Lifter clock: 342417
+10/09/2024 17:02:39 
+10/09/2024 17:02:39 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:39 Detector: Pusher clock: 342504
+10/09/2024 17:02:39 
+10/09/2024 17:02:39 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:39 Detector: Lifter clock: 342504
+10/09/2024 17:02:39 
+10/09/2024 17:02:39 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:39 Detector: Pusher clock: 342539
+10/09/2024 17:02:39 
+10/09/2024 17:02:39 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:39 Detector: Lifter clock: 342539
+10/09/2024 17:02:39 
+10/09/2024 17:02:39 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:39 Detector: Pusher clock: 342611
+10/09/2024 17:02:39 
+10/09/2024 17:02:39 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:39 Detector: Lifter clock: 342611
+10/09/2024 17:02:39 
+10/09/2024 17:02:39 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:39 Detector: Pusher clock: 342732
+10/09/2024 17:02:39 
+10/09/2024 17:02:39 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:39 Detector: Lifter clock: 342732
+10/09/2024 17:02:39 
+10/09/2024 17:02:39 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:39 Detector: Pusher clock: 342763
+10/09/2024 17:02:39 
+10/09/2024 17:02:39 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:39 Detector: Lifter clock: 342763
+10/09/2024 17:02:40 
+10/09/2024 17:02:40 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:40 Detector: Pusher clock: 342784
+10/09/2024 17:02:40 
+10/09/2024 17:02:40 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:40 Detector: Lifter clock: 342784
+10/09/2024 17:02:40 Buffersize: 212
+10/09/2024 17:02:40 
+10/09/2024 17:02:40 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:40 Detector: Pusher clock: 342812
+10/09/2024 17:02:40 
+10/09/2024 17:02:40 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:40 Detector: Lifter clock: 342812
+10/09/2024 17:02:40 
+10/09/2024 17:02:40 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:40 Detector: Pusher clock: 342828
+10/09/2024 17:02:40 
+10/09/2024 17:02:40 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:40 Detector: Lifter clock: 342828
+10/09/2024 17:02:40 
+10/09/2024 17:02:40 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:40 Detector: Pusher clock: 342908
+10/09/2024 17:02:40 
+10/09/2024 17:02:40 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:40 Detector: Lifter clock: 342908
+10/09/2024 17:02:40 
+10/09/2024 17:02:40 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:40 Detector: Pusher clock: 342928
+10/09/2024 17:02:40 
+10/09/2024 17:02:40 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:40 Detector: Lifter clock: 342928
+10/09/2024 17:02:40 
+10/09/2024 17:02:40 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:40 Detector: Pusher clock: 343119
+10/09/2024 17:02:40 
+10/09/2024 17:02:40 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:40 Detector: Lifter clock: 343119
+10/09/2024 17:02:40 
+10/09/2024 17:02:40 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:40 Detector: Pusher clock: 343190
+10/09/2024 17:02:40 
+10/09/2024 17:02:40 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:40 Detector: Lifter clock: 343190
+10/09/2024 17:02:40 
+10/09/2024 17:02:40 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:40 Detector: Pusher clock: 343220
+10/09/2024 17:02:40 
+10/09/2024 17:02:40 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:40 Detector: Lifter clock: 343220
+10/09/2024 17:02:41 
+10/09/2024 17:02:41 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:41 Detector: Pusher clock: 343286
+10/09/2024 17:02:41 
+10/09/2024 17:02:41 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:41 Detector: Lifter clock: 343286
+10/09/2024 17:02:41 Buffersize: 212
+10/09/2024 17:02:41 
+10/09/2024 17:02:41 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:41 Detector: Pusher clock: 343307
+10/09/2024 17:02:41 
+10/09/2024 17:02:41 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:41 Detector: Lifter clock: 343307
+10/09/2024 17:02:41 
+10/09/2024 17:02:41 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:41 Detector: Pusher clock: 343332
+10/09/2024 17:02:41 
+10/09/2024 17:02:41 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:41 Detector: Lifter clock: 343332
+10/09/2024 17:02:41 
+10/09/2024 17:02:41 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:41 Detector: Pusher clock: 343408
+10/09/2024 17:02:41 
+10/09/2024 17:02:41 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:41 Detector: Lifter clock: 343408
+10/09/2024 17:02:41 
+10/09/2024 17:02:41 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:41 Detector: Pusher clock: 343448
+10/09/2024 17:02:41 
+10/09/2024 17:02:41 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:41 Detector: Lifter clock: 343448
+10/09/2024 17:02:41 
+10/09/2024 17:02:41 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:41 Detector: Pusher clock: 343519
+10/09/2024 17:02:41 
+10/09/2024 17:02:41 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:41 Detector: Lifter clock: 343519
+10/09/2024 17:02:41 
+10/09/2024 17:02:41 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:41 Detector: Pusher clock: 343545
+10/09/2024 17:02:41 
+10/09/2024 17:02:41 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:41 Detector: Lifter clock: 343545
+10/09/2024 17:02:44 
+10/09/2024 17:02:44 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:44 Detector: Pusher clock: 345095
+10/09/2024 17:02:44 
+10/09/2024 17:02:44 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:44 Detector: Lifter clock: 345095
+10/09/2024 17:02:44 
+10/09/2024 17:02:44 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:44 Detector: Pusher clock: 345107
+10/09/2024 17:02:44 
+10/09/2024 17:02:44 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:44 Detector: Lifter clock: 345107
+10/09/2024 17:02:44 
+10/09/2024 17:02:44 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:44 Detector: Pusher clock: 345213
+10/09/2024 17:02:44 
+10/09/2024 17:02:44 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:44 Detector: Lifter clock: 345213
+10/09/2024 17:02:44 
+10/09/2024 17:02:44 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:44 Detector: Pusher clock: 345360
+10/09/2024 17:02:44 
+10/09/2024 17:02:44 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:44 Detector: Lifter clock: 345360
+10/09/2024 17:02:44 
+10/09/2024 17:02:44 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:44 Detector: Pusher clock: 345376
+10/09/2024 17:02:44 
+10/09/2024 17:02:44 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:44 Detector: Lifter clock: 345376
+10/09/2024 17:02:45 
+10/09/2024 17:02:45 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:45 Detector: Pusher clock: 345408
+10/09/2024 17:02:45 
+10/09/2024 17:02:45 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:45 Detector: Lifter clock: 345408
+10/09/2024 17:02:45 
+10/09/2024 17:02:45 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:45 Detector: Pusher clock: 345441
+10/09/2024 17:02:45 
+10/09/2024 17:02:45 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:45 Detector: Lifter clock: 345441
+10/09/2024 17:02:45 
+10/09/2024 17:02:45 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:45 Detector: Pusher clock: 345525
+10/09/2024 17:02:45 
+10/09/2024 17:02:45 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:45 Detector: Lifter clock: 345525
+10/09/2024 17:02:45 
+10/09/2024 17:02:45 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:45 Detector: Pusher clock: 345547
+10/09/2024 17:02:45 
+10/09/2024 17:02:45 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:45 Detector: Lifter clock: 345547
+10/09/2024 17:02:45 
+10/09/2024 17:02:45 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:45 Detector: Pusher clock: 345705
+10/09/2024 17:02:45 
+10/09/2024 17:02:45 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:45 Detector: Lifter clock: 345705
+10/09/2024 17:02:45 
+10/09/2024 17:02:45 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:45 Detector: Pusher clock: 345743
+10/09/2024 17:02:45 
+10/09/2024 17:02:45 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:45 Detector: Lifter clock: 345743
+10/09/2024 17:02:45 
+10/09/2024 17:02:45 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:45 Detector: Pusher clock: 345796
+10/09/2024 17:02:45 
+10/09/2024 17:02:45 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:45 Detector: Lifter clock: 345796
+10/09/2024 17:02:45 
+10/09/2024 17:02:45 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:45 Detector: Pusher clock: 345834
+10/09/2024 17:02:45 
+10/09/2024 17:02:45 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:45 Detector: Lifter clock: 345834
+10/09/2024 17:02:46 
+10/09/2024 17:02:46 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:02:46 Detector: Pusher clock: 345957
+10/09/2024 17:02:46 
+10/09/2024 17:02:46 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:02:46 Detector: Lifter clock: 345957
+10/09/2024 17:17:48 
+10/09/2024 17:17:48 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:48 Detector: Pusher clock: 345962
+10/09/2024 17:17:48 
+10/09/2024 17:17:48 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:48 Detector: Lifter clock: 345962
+10/09/2024 17:17:52 
+10/09/2024 17:17:52 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:52 Detector: Pusher clock: 347729
+10/09/2024 17:17:52 
+10/09/2024 17:17:52 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:52 Detector: Lifter clock: 347729
+10/09/2024 17:17:52 
+10/09/2024 17:17:52 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:52 Detector: Pusher clock: 347771
+10/09/2024 17:17:52 
+10/09/2024 17:17:52 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:52 Detector: Lifter clock: 347771
+10/09/2024 17:17:52 
+10/09/2024 17:17:52 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:52 Detector: Pusher clock: 347830
+10/09/2024 17:17:52 
+10/09/2024 17:17:52 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:52 Detector: Lifter clock: 347830
+10/09/2024 17:17:52 
+10/09/2024 17:17:52 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:52 Detector: Pusher clock: 347865
+10/09/2024 17:17:52 
+10/09/2024 17:17:52 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:52 Detector: Lifter clock: 347865
+10/09/2024 17:17:52 
+10/09/2024 17:17:52 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:52 Detector: Pusher clock: 347921
+10/09/2024 17:17:52 
+10/09/2024 17:17:52 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:52 Detector: Lifter clock: 347921
+10/09/2024 17:17:52 
+10/09/2024 17:17:52 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:52 Detector: Pusher clock: 347958
+10/09/2024 17:17:52 
+10/09/2024 17:17:52 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:52 Detector: Lifter clock: 347958
+10/09/2024 17:17:52 
+10/09/2024 17:17:52 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:52 Detector: Pusher clock: 348004
+10/09/2024 17:17:52 
+10/09/2024 17:17:52 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:52 Detector: Lifter clock: 348004
+10/09/2024 17:17:52 Buffersize: 636
+10/09/2024 17:17:52 
+10/09/2024 17:17:52 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:52 Detector: Pusher clock: 348032
+10/09/2024 17:17:52 
+10/09/2024 17:17:52 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:52 Detector: Lifter clock: 348032
+10/09/2024 17:17:52 Buffersize: 424
+10/09/2024 17:17:52 
+10/09/2024 17:17:52 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:52 Detector: Pusher clock: 348055
+10/09/2024 17:17:52 
+10/09/2024 17:17:52 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:52 Detector: Lifter clock: 348055
+10/09/2024 17:17:52 Buffersize: 212
+10/09/2024 17:17:52 
+10/09/2024 17:17:52 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:52 Detector: Pusher clock: 348070
+10/09/2024 17:17:52 
+10/09/2024 17:17:52 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:52 Detector: Lifter clock: 348070
+10/09/2024 17:17:52 
+10/09/2024 17:17:52 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:52 Detector: Pusher clock: 348106
+10/09/2024 17:17:52 
+10/09/2024 17:17:52 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:52 Detector: Lifter clock: 348106
+10/09/2024 17:17:52 
+10/09/2024 17:17:52 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:52 Detector: Pusher clock: 348182
+10/09/2024 17:17:52 
+10/09/2024 17:17:52 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:52 Detector: Lifter clock: 348182
+10/09/2024 17:17:53 
+10/09/2024 17:17:53 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:53 Detector: Pusher clock: 348213
+10/09/2024 17:17:53 
+10/09/2024 17:17:53 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:53 Detector: Lifter clock: 348213
+10/09/2024 17:17:53 Buffersize: 424
+10/09/2024 17:17:53 
+10/09/2024 17:17:53 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:53 Detector: Pusher clock: 348247
+10/09/2024 17:17:53 
+10/09/2024 17:17:53 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:53 Detector: Lifter clock: 348247
+10/09/2024 17:17:53 Buffersize: 212
+10/09/2024 17:17:53 
+10/09/2024 17:17:53 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:53 Detector: Pusher clock: 348267
+10/09/2024 17:17:53 
+10/09/2024 17:17:53 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:53 Detector: Lifter clock: 348267
+10/09/2024 17:17:53 
+10/09/2024 17:17:53 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:53 Detector: Pusher clock: 348298
+10/09/2024 17:17:53 
+10/09/2024 17:17:53 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:53 Detector: Lifter clock: 348298
+10/09/2024 17:17:53 
+10/09/2024 17:17:53 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:53 Detector: Pusher clock: 348326
+10/09/2024 17:17:53 
+10/09/2024 17:17:53 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:53 Detector: Lifter clock: 348326
+10/09/2024 17:17:53 Buffersize: 424
+10/09/2024 17:17:53 
+10/09/2024 17:17:53 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:53 Detector: Pusher clock: 348360
+10/09/2024 17:17:53 
+10/09/2024 17:17:53 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:53 Detector: Lifter clock: 348360
+10/09/2024 17:17:53 Buffersize: 212
+10/09/2024 17:17:53 
+10/09/2024 17:17:53 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:53 Detector: Pusher clock: 348380
+10/09/2024 17:17:53 
+10/09/2024 17:17:53 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:53 Detector: Lifter clock: 348380
+10/09/2024 17:17:53 
+10/09/2024 17:17:53 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:53 Detector: Pusher clock: 348410
+10/09/2024 17:17:53 
+10/09/2024 17:17:53 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:53 Detector: Lifter clock: 348410
+10/09/2024 17:17:53 
+10/09/2024 17:17:53 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:53 Detector: Pusher clock: 348445
+10/09/2024 17:17:53 
+10/09/2024 17:17:53 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:53 Detector: Lifter clock: 348445
+10/09/2024 17:17:53 Buffersize: 424
+10/09/2024 17:17:53 
+10/09/2024 17:17:53 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:53 Detector: Pusher clock: 348473
+10/09/2024 17:17:53 
+10/09/2024 17:17:53 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:53 Detector: Lifter clock: 348473
+10/09/2024 17:17:53 Buffersize: 212
+10/09/2024 17:17:53 
+10/09/2024 17:17:53 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:53 Detector: Pusher clock: 348498
+10/09/2024 17:17:53 
+10/09/2024 17:17:53 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:53 Detector: Lifter clock: 348498
+10/09/2024 17:17:53 
+10/09/2024 17:17:53 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:53 Detector: Pusher clock: 348523
+10/09/2024 17:17:53 
+10/09/2024 17:17:53 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:53 Detector: Lifter clock: 348523
+10/09/2024 17:17:53 
+10/09/2024 17:17:53 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:53 Detector: Pusher clock: 348556
+10/09/2024 17:17:53 
+10/09/2024 17:17:53 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:53 Detector: Lifter clock: 348556
+10/09/2024 17:17:53 Buffersize: 212
+10/09/2024 17:17:53 
+10/09/2024 17:17:53 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:53 Detector: Pusher clock: 348595
+10/09/2024 17:17:53 
+10/09/2024 17:17:53 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:53 Detector: Lifter clock: 348595
+10/09/2024 17:17:53 
+10/09/2024 17:17:53 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:53 Detector: Pusher clock: 348610
+10/09/2024 17:17:53 
+10/09/2024 17:17:53 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:53 Detector: Lifter clock: 348610
+10/09/2024 17:17:53 Buffersize: 636
+10/09/2024 17:17:53 
+10/09/2024 17:17:53 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:53 Detector: Pusher clock: 348643
+10/09/2024 17:17:53 
+10/09/2024 17:17:53 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:53 Detector: Lifter clock: 348643
+10/09/2024 17:17:53 Buffersize: 424
+10/09/2024 17:17:53 
+10/09/2024 17:17:53 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:53 Detector: Pusher clock: 348670
+10/09/2024 17:17:53 
+10/09/2024 17:17:53 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:53 Detector: Lifter clock: 348670
+10/09/2024 17:17:53 Buffersize: 212
+10/09/2024 17:17:53 
+10/09/2024 17:17:53 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:53 Detector: Pusher clock: 348716
+10/09/2024 17:17:53 
+10/09/2024 17:17:53 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:53 Detector: Lifter clock: 348716
+10/09/2024 17:17:53 
+10/09/2024 17:17:53 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:53 Detector: Pusher clock: 348727
+10/09/2024 17:17:53 
+10/09/2024 17:17:53 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:53 Detector: Lifter clock: 348727
+10/09/2024 17:17:54 
+10/09/2024 17:17:54 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:54 Detector: Pusher clock: 348765
+10/09/2024 17:17:54 
+10/09/2024 17:17:54 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:54 Detector: Lifter clock: 348765
+10/09/2024 17:17:54 Buffersize: 212
+10/09/2024 17:17:54 
+10/09/2024 17:17:54 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:54 Detector: Pusher clock: 348786
+10/09/2024 17:17:54 
+10/09/2024 17:17:54 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:54 Detector: Lifter clock: 348786
+10/09/2024 17:17:54 
+10/09/2024 17:17:54 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:54 Detector: Pusher clock: 348831
+10/09/2024 17:17:54 
+10/09/2024 17:17:54 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:54 Detector: Lifter clock: 348831
+10/09/2024 17:17:54 
+10/09/2024 17:17:54 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:54 Detector: Pusher clock: 348849
+10/09/2024 17:17:54 
+10/09/2024 17:17:54 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:54 Detector: Lifter clock: 348849
+10/09/2024 17:17:54 Buffersize: 212
+10/09/2024 17:17:54 
+10/09/2024 17:17:54 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:54 Detector: Pusher clock: 348882
+10/09/2024 17:17:54 
+10/09/2024 17:17:54 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:54 Detector: Lifter clock: 348882
+10/09/2024 17:17:54 
+10/09/2024 17:17:54 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:54 Detector: Pusher clock: 348902
+10/09/2024 17:17:54 
+10/09/2024 17:17:54 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:54 Detector: Lifter clock: 348902
+10/09/2024 17:17:54 
+10/09/2024 17:17:54 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:54 Detector: Pusher clock: 348954
+10/09/2024 17:17:54 
+10/09/2024 17:17:54 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:54 Detector: Lifter clock: 348954
+10/09/2024 17:17:54 
+10/09/2024 17:17:54 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:54 Detector: Pusher clock: 348972
+10/09/2024 17:17:54 
+10/09/2024 17:17:54 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:54 Detector: Lifter clock: 348972
+10/09/2024 17:17:54 
+10/09/2024 17:17:54 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:54 Detector: Pusher clock: 349067
+10/09/2024 17:17:54 
+10/09/2024 17:17:54 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:54 Detector: Lifter clock: 349067
+10/09/2024 17:17:54 Buffersize: 424
+10/09/2024 17:17:54 
+10/09/2024 17:17:54 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:54 Detector: Pusher clock: 349084
+10/09/2024 17:17:54 
+10/09/2024 17:17:54 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:54 Detector: Lifter clock: 349084
+10/09/2024 17:17:54 Buffersize: 212
+10/09/2024 17:17:54 
+10/09/2024 17:17:54 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:54 Detector: Pusher clock: 349127
+10/09/2024 17:17:54 
+10/09/2024 17:17:54 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:54 Detector: Lifter clock: 349127
+10/09/2024 17:17:54 
+10/09/2024 17:17:54 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:54 Detector: Pusher clock: 349143
+10/09/2024 17:17:54 
+10/09/2024 17:17:54 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:54 Detector: Lifter clock: 349143
+10/09/2024 17:17:54 
+10/09/2024 17:17:54 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:54 Detector: Pusher clock: 349187
+10/09/2024 17:17:54 
+10/09/2024 17:17:54 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:54 Detector: Lifter clock: 349187
+10/09/2024 17:17:54 Buffersize: 424
+10/09/2024 17:17:54 
+10/09/2024 17:17:54 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:54 Detector: Pusher clock: 349198
+10/09/2024 17:17:54 
+10/09/2024 17:17:54 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:54 Detector: Lifter clock: 349198
+10/09/2024 17:17:54 Buffersize: 212
+10/09/2024 17:17:54 
+10/09/2024 17:17:54 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:54 Detector: Pusher clock: 349238
+10/09/2024 17:17:54 
+10/09/2024 17:17:54 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:54 Detector: Lifter clock: 349238
+10/09/2024 17:17:54 
+10/09/2024 17:17:54 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:54 Detector: Pusher clock: 349256
+10/09/2024 17:17:54 
+10/09/2024 17:17:54 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:54 Detector: Lifter clock: 349256
+10/09/2024 17:17:55 
+10/09/2024 17:17:55 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:55 Detector: Pusher clock: 349473
+10/09/2024 17:17:55 
+10/09/2024 17:17:55 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:55 Detector: Lifter clock: 349473
+10/09/2024 17:17:55 
+10/09/2024 17:17:55 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:55 Detector: Pusher clock: 349493
+10/09/2024 17:17:55 
+10/09/2024 17:17:55 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:55 Detector: Lifter clock: 349493
+10/09/2024 17:17:55 
+10/09/2024 17:17:55 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:55 Detector: Pusher clock: 349595
+10/09/2024 17:17:55 
+10/09/2024 17:17:55 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:55 Detector: Lifter clock: 349595
+10/09/2024 17:17:55 
+10/09/2024 17:17:55 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:55 Detector: Pusher clock: 349610
+10/09/2024 17:17:55 
+10/09/2024 17:17:55 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:55 Detector: Lifter clock: 349610
+10/09/2024 17:17:55 
+10/09/2024 17:17:55 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:55 Detector: Pusher clock: 349718
+10/09/2024 17:17:55 
+10/09/2024 17:17:55 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:55 Detector: Lifter clock: 349718
+10/09/2024 17:17:55 
+10/09/2024 17:17:55 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:55 Detector: Pusher clock: 349738
+10/09/2024 17:17:55 
+10/09/2024 17:17:55 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:55 Detector: Lifter clock: 349738
+10/09/2024 17:17:56 
+10/09/2024 17:17:56 Detector: Pusher maximum time bound 77662 at state 7 violated: deadlock!
+10/09/2024 17:17:56 Detector: Pusher clock: 349777
+10/09/2024 17:17:56 
+10/09/2024 17:17:56 Detector: Lifter maximum time bound 185255 at state 4 violated: deadlock!
+10/09/2024 17:17:56 Detector: Lifter clock: 349777

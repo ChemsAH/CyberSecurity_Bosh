@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FDITool", "FDITool\FDITool.csproj", "{B735AB8F-BB54-466C-A0BD-52B627B88264}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B735AB8F-BB54-466C-A0BD-52B627B88264}.Debug|x86.ActiveCfg = Release|x86
+		{B735AB8F-BB54-466C-A0BD-52B627B88264}.Debug|x86.Build.0 = Release|x86
+		{B735AB8F-BB54-466C-A0BD-52B627B88264}.Release|x86.ActiveCfg = Release|x86
+		{B735AB8F-BB54-466C-A0BD-52B627B88264}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
